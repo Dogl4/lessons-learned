@@ -1,6 +1,7 @@
 body {
   background-color: rgb(253, 251, 251);
   font-family: Arial;
+  line-height: 20px;
 }
 
 #cabecalho {
@@ -52,11 +53,11 @@ nav li {
   text-indent: 10px;
 }
 
-article {
+.lado-direito {
   max-width: 60%;
 }
 
-aside {
+.lado-esquerdo {
   max-width: 30%;
   margin-left: 30px;
 }
