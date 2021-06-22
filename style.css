@@ -17,6 +17,8 @@ body {
 
 #minha_foto {
   width: 200px;
+  margin: 0 auto;
+  border: 3px solid #1d1e21;
 }
 
 .main {
@@ -40,4 +42,25 @@ nav ul {
 
 nav li {
   padding: 20px;
+}
+
+.artigos{
+  display: flex;
+}
+
+.artigos h3{
+  text-indent: 10px;
+}
+
+article{
+  max-width: 60%;
+}
+
+aside{
+  max-width: 30%;
+  margin-left: 30px;
+}
+
+.listas {
+  display: block;
 }
