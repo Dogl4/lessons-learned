@@ -31,3 +31,13 @@ h1 {
 h2 {
   font-size: 18px;
 }
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0 20px;
+}
+
+nav li {
+  padding: 20px;
+}
