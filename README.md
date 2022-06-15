@@ -1,10 +1,10 @@
 # Projeto Lessons Learned
 
-## 📷 Screenshot
-![Screenshot](./Screenshot.png)
-
 ## 📋 Descrição do projeto
 Um projeto que: Utiliza HTML para a página WEB. Utiliza HTML semântico para tornar a página mais acessível e melhor ranqueada. Utiliza CSS para adicionar estilo e posiciona elementos.
+
+## 📷 Screenshot
+![Screenshot](./Screenshot.png)
 
 ## 💻 Tecnologias utilizadas
 - HTML
